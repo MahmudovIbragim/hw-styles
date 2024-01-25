@@ -1,0 +1,15 @@
+.contentCard {
+  padding: 20px;
+  box-shadow: 0 0 15px;
+
+  border-radius: 12px;
+}
+
+
+img{
+  
+  border-radius: 12px;
+}
+img:hover{
+  box-shadow: 0 0 15px;
+}
